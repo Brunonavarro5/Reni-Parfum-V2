@@ -1,3 +1,4 @@
+import React from "react";
 export function Select({ children }) {
   return <div className='w-full border p-2 rounded'>{children}</div>;
 }
